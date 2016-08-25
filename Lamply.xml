@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>/Users/emcniece/Documents/kicad/Lamply/Lamply.sch</source>
+    <date>Monday, August 22, 2016 'pmt' 12:54:10 pm</date>
+    <tool>Eeschema 4.0.3-stable</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Lamply.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components/>
+  <libparts/>
+  <libraries/>
+  <nets/>
+</export>
